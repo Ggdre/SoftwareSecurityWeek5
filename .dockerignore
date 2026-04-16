@@ -1,0 +1,24 @@
+# Git metadata (can be huge)
+.git
+.gitignore
+
+# Python virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Node modules (if applicable)
+node_modules/
+
+# Environment secrets (Security Risk!)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker-related files
+Dockerfile
+.dockerignore
